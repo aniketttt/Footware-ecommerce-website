@@ -1,4 +1,4 @@
-#select base image for the hosting
+#select base image for server like use
 FROM httpd
 
 #select working directory
